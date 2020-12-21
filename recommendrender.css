@@ -1,0 +1,11 @@
+/*recommend.js render css*/
+.recrender_renderbox {
+  background-color: white;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+.recrender_card {
+  padding: 5px;
+  background-color: white;
+}
